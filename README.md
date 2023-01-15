@@ -37,3 +37,5 @@ Make sure to replace "script_name.py" with the actual name of the script file.
 When the script runs, it will prompt you to enter a comma-separated list of valid item types. Once you have entered the item types, the script will execute and retrieve the items from the API. The script will then write the items with the highest prices to an output file named "output.txt" in the same directory as the script.
 
 valid_item_types = {'ammo', 'ammoBox', 'any', 'armor', 'backpack', 'barter', 'container', 'glasses', 'grenade', 'gun', 'headphones', 'helmet', 'injectors', 'keys', 'markedOnly', 'meds', 'mods', 'noFlea', 'pistolGrip', 'preset', 'provisions', 'rig', 'suppressor', 'wearable'}
+
+or just "any" for all items.
