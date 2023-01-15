@@ -23,6 +23,7 @@ requests
 heapq
 tqdm
 re
+
 You can install these libraries by running the following command in the command prompt:
 
 pip install json requests heapq tqdm re
