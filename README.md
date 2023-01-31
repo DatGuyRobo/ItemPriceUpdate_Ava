@@ -24,9 +24,6 @@ heapq
 tqdm
 re
 
-You can install these libraries by running the following command in the command prompt:
-
-pip install json requests heapq tqdm re
 
 After installing the required libraries, you can run the script by opening the command prompt, navigating to the directory where the script is located, and running the command:
 
